@@ -7,7 +7,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{6906EF75-00E
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{0E547C82-40BF-4535-A23F-8BFF5F4F332B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Investex.Presentation", "Investex.Presentation\Investex.Presentation.csproj", "{AD92BD65-D750-492C-88A2-27F4AEE7C457}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Investex.Presentation", "Investex.Presentation\Investex.Presentation.csproj", "{AD92BD65-D750-492C-88A2-27F4AEE7C457}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Investex.Domain", "Investex.Domain\Investex.Domain.csproj", "{996270A8-DA75-4843-AB5A-3D2632EB2525}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -19,12 +21,17 @@ Global
 		{AD92BD65-D750-492C-88A2-27F4AEE7C457}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AD92BD65-D750-492C-88A2-27F4AEE7C457}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AD92BD65-D750-492C-88A2-27F4AEE7C457}.Release|Any CPU.Build.0 = Release|Any CPU
+		{996270A8-DA75-4843-AB5A-3D2632EB2525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{996270A8-DA75-4843-AB5A-3D2632EB2525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{996270A8-DA75-4843-AB5A-3D2632EB2525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{996270A8-DA75-4843-AB5A-3D2632EB2525}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{AD92BD65-D750-492C-88A2-27F4AEE7C457} = {6906EF75-00E2-4C4F-A936-6B27819B629D}
+		{996270A8-DA75-4843-AB5A-3D2632EB2525} = {6906EF75-00E2-4C4F-A936-6B27819B629D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {F261B485-A037-464E-93A0-4C657EB830CF}

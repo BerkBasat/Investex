@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jto3wIUDHu66FKEBFVHopF3wuP7vg0IKMbtlYncmim4MwEk++jiD0I3d/0BybtlYvdAKZNEh9cZ1rpENTWdSkg==",
+  "dgSpecHash": "rXeN4hc0cKNJXnuB2/OfBN6LE5riwFxmE1SBnpPtCtf5mwIgSANJrVxzVj9RYYyOdHFphxHQUDFkjhseF26XQg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Huawei\\Desktop\\Github\\Investex\\Investex\\Investex.Presentation\\Investex.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\Huawei\\Desktop\\Github\\Investex\\Investex\\Investex.Domain\\Investex.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Huawei\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Huawei\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.6\\microsoft.aspnetcore.cryptography.internal.6.0.6.nupkg.sha512",
