@@ -1,2 +1,2 @@
 # Investex
-An investment website being developed with .Net Core 6
+An investment website currently being developed with .Net Core 6 (IN EARLY-DEVELOPMENT)
