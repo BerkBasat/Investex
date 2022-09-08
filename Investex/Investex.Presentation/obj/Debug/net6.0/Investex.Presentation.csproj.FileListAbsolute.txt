@@ -42,3 +42,5 @@ C:\Users\Huawei\Desktop\Github\Investex\Investex\Investex.Presentation\obj\Debug
 C:\Users\Huawei\Desktop\Github\Investex\Investex\Investex.Presentation\obj\Debug\net6.0\Investex.Presentation.pdb
 C:\Users\Huawei\Desktop\Github\Investex\Investex\Investex.Presentation\obj\Debug\net6.0\Investex.Presentation.genruntimeconfig.cache
 C:\Users\Huawei\Desktop\Github\Investex\Investex\Investex.Presentation\obj\Debug\net6.0\ref\Investex.Presentation.dll
+C:\Users\Huawei\Desktop\Github\Investex\Investex\Investex.Presentation\bin\Debug\net6.0\Investex.Infrastructure.dll
+C:\Users\Huawei\Desktop\Github\Investex\Investex\Investex.Presentation\bin\Debug\net6.0\Investex.Infrastructure.pdb
