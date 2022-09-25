@@ -525,10 +525,27 @@
           "buildTransitive/netcoreapp3.1/_._": {}
         }
       },
+      "Investex.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.8",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.8",
+          "Microsoft.AspNetCore.Identity.UI": "6.0.8",
+          "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.6"
+        },
+        "compile": {
+          "bin/placeholder/Investex.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Investex.Domain.dll": {}
+        }
+      },
       "Investex.Infrastructure/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
+          "Investex.Domain": "1.0.0",
           "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.8",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.8",
           "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.6"
@@ -1261,6 +1278,11 @@
         "system.runtime.compilerservices.unsafe.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Investex.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Investex.Domain/Investex.Domain.csproj",
+      "msbuildProject": "../Investex.Domain/Investex.Domain.csproj"
     },
     "Investex.Infrastructure/1.0.0": {
       "type": "project",

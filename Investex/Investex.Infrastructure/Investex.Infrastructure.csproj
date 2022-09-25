@@ -22,4 +22,8 @@
     <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="6.0.6" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Investex.Domain\Investex.Domain.csproj" />
+  </ItemGroup>
+
 </Project>
