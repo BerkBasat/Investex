@@ -11,8 +11,9 @@ namespace Investex.Infastructure.Context
         {
         }
 
+        //todo: Stock prices, currencies etc will be pulled from an api!
+
         public DbSet<NewsArticle> NewsArticles { get; set; }
-        public DbSet<NewsAnalysis> NewsAnalyses { get; set; }
         public DbSet<Category> Categories { get; set; }
         public DbSet<Video> Videos { get; set; }
 

@@ -33,7 +33,6 @@ namespace Investex.Domain.Entities.Concrete
 
         //Relations
         public virtual List<NewsArticle> NewsArticles { get; set; }
-        public virtual List<NewsAnalysis> NewsAnalyses { get; set; }
         public virtual List<Video> Videos { get; set; }
 
     }
